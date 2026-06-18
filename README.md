@@ -1,6 +1,5 @@
 # Culinary-Phylogeny
 
-This is a professional **README.md** structure for your GitHub repository. It is designed to be scannable, informative, and to highlight your technical decision-making to anyone reviewing your code.
 
 ---
 
